@@ -1,0 +1,11 @@
+[submodule "lib/jquery-cookie"]
+	path = lib/jquery-cookie
+	url = https://github.com/carhartl/jquery-cookie.git
+
+[submodule "lib/jquery-hoverIntent"]
+	path = lib/jquery-hoverIntent
+	url = https://github.com/briancherne/jquery-hoverIntent.git
+
+[submodule "lib/jquery.dcaccordion"]
+	path = lib/jquery.dcaccordion
+	url = https://github.com/dillonforrest/jquery.dcaccordion.git
