@@ -4,7 +4,7 @@ dcaccordion from Design Chemical, https://github.com/dillonforrest/jquery.dcacco
 # To install
 meteor add keryi:meteor-dcaccordion
 
-# To use (use markdown for code)
+# To use
 ```
 Template.menu.rendered = function() {
   $('#accordion').dcAccordion({
