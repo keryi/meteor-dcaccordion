@@ -1,6 +1,6 @@
 Package.describe({
   name: 'keryi:meteor-dcaccordion',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: "Design Chemical's jQuery vertical accordion",
   git: 'https://github.com/keryi/meteor-dcaccordion.git',
   documentation: 'README.md'
